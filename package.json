@@ -1,6 +1,6 @@
 {
-  "homepage": "https://DavidFlutter.github.io/frontend-mentor-project-loopstudios-landing-page",
-  "name": "frontend-mentor-project-loopstudios-landing-page",
+  "homepage": "https://DavidFlutter.github.io/loopstudios-landing-page/",
+  "name": "loopstudios-landing-page",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
